@@ -2,7 +2,8 @@
 title = "Manhattan Piano Tuner | Schedule Today!"
 baseURL = "https://luxury-twilight-138919.netlify.app" 
 languageCode = "en-us"
-resourceDir = "../resources"
+theme = "mytheme"
+resourceDir = "resources"
 paginate = 10
 summaryLength = 30 
 DefaultContentLanguage = "en"
