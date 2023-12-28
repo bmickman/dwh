@@ -1,12 +1,17 @@
 # General Settings
 title = "Manhattan Piano Tuner | Schedule Today!"
-baseURL = "https://manhattanpianotuner.com/" #YOUR SITE URL
+baseURL = "https://manhattanpianotuner.com" 
 languageCode = "en-us"
 theme = "mytheme"
 resourceDir = "../resources"
 paginate = 10
 summaryLength = 30 
 DefaultContentLanguage = "en"
+
+[backend]
+name = "git-gateway"
+branch = "main"
+
 
 # Menu Settings
 [menu]
@@ -32,11 +37,6 @@ DefaultContentLanguage = "en"
   name = "Contact"
   url = "#contact-section"
   weight = 6
-[[menu.main]]
-  identifier = "pages"
-  name = "Pages"
-  url = "#pages"
-  weight = 7
 
 
 # Main Settings
