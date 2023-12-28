@@ -1,0 +1,7 @@
+--------------------------------------
+
+Online Hugo Ober Theme Documentation:
+
+https://bslthemes.gitbook.io/ober-hugo-doc/
+
+--------------------------------------

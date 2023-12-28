@@ -1,0 +1,145 @@
+# Sections content configuration file
+##
+### use navigation.yml file to re-order, delete or add section of each card
+### here you can find all content in all pre-build sections
+
+### Hero [ heroSection ]
+hero:
+  enable: true
+  image: "images/about/profile.jpg"
+  image_alt: "Federico Ober"
+  title: "Servicing the NYC Metro Area!"
+  subtitle: "Manhattan Piano Tuner"
+  description: "Piano tuning services for the New York City Metropolitan Area"
+  info:
+    - label: "Areas of Service"
+      value: "Manhattan Brooklyn Queens Bronx ...sometimes beyond!"
+
+    - label: "Experience"
+      value: "10+ Years"
+
+    - label: "Founded"
+      value: "2011"
+
+### About [ aboutSection ]
+about:
+  enable: true
+  title: "About Me"
+  text: "
+  <p>
+    Hello! My name is Brandon and I'm a long-term New York City resident. I've been tuning New York's
+    pianos since 2011. I've worked on many of the most famous stages in the world, such as 
+    Carnegie Hall, The Apollo, Lincoln Center, Saint Patrick's Cathedral, and several theaters on (and off) Broadway! 
+    </p>
+    <p>
+    I've tuned at some of the most highly regarded recording studios in the city, as well as
+    for NYC public and private schools, churches, and countless home residences. 
+    I've also tuned specifically for performances by Sarah McLachlan, Aaliyah, and for plays such as The Book of Mormon and Shucked. 
+
+  </p>
+
+  "
+  list:
+    - label: "Hundreds of pianos tuned!"
+      icon: "far fa-check-circle"
+      value: "124"
+
+    - label: "Great reviews!"
+      icon: "far fa-smile-beam"
+      value: "65"
+
+    - label: "Schedule at your convenience!"
+      icon: "far fa-clock"
+      value: "18"
+
+  button:
+    text: "Contact Me"
+    link: "#contact-section"
+
+  signature:
+    image: ""
+    alt: ""
+
+### Pricing [ pricingSection ]
+pricing:
+  enable: true
+  title: "Pricing"
+  text: "Simple and straightforward pricing!"
+  items:
+    - name: "Standard Rate"
+      subname: "Standard rate applies if W9 or 1099 are required"
+      price: "$200"
+      list:
+        - value: "Piano Tuning"
+        - value: "NYC Metro Area"
+        - value: "LIRR, Metro North, and NJ transit are possible for an additional charge"
+        - value: "Flexible scheduling!"
+      button: "Hire Me"
+      link: "#contact-section"
+
+    - name: "Local Rate"
+      subname: "Cash, Venmo, Paypal, Zelle, same-day-check"
+      price: "$175"
+      list:
+        - value: "Piano Tuning"
+        - value: "NYC Metro Area"
+        - value: "LIRR, Metro North, and NJ transit are possible for an additional charge"
+        - value: "Flexible scheduling!"
+      button: "Hire Me"
+      link: "#contact-section"
+
+    - name: "Student Rate"
+      subname: "Available to piano teachers and current music students only"
+      price: "$145"
+      list:
+        - value: "Piano Tuning in residential locations only"
+        - value: "NYC Metro Area"
+        - value: "LIRR, Metro North, and NJ transit are possible for an additional charge"
+        - value: "Proof of current music studies are required"
+      button: "Hire Me"
+      link: "#contact-section"
+
+### Clients [ clientsSection ]
+clients:
+  enable: false
+  title: "My Clients"
+  text: "<p>Suspendisse potenti. Sed egestas eros eu libero posuere ultrices. Nullam ut aliquet felis, sit amet imperdiet felis.</p>"
+  items:
+    - image: "images/brands/brand1.png"
+      title: "bslthemes"
+
+    - image: "images/brands/brand2.png"
+      title: "bslthemes"
+
+    - image: "images/brands/brand3.png"
+      title: "bslthemes"
+
+    - image: "images/brands/brand4.png"
+      title: "bslthemes"
+
+### Contact [ contacts ]
+contact:
+  enable: true
+  title: "Contact Me"
+  list:
+    - label: "Phone"
+      icon: "fas fa-phone"
+      value: "617-519-1141"
+
+    - label: "Email"
+      icon: "fas fa-at"
+      value: "piano.mickman@gmail.com"
+
+    - label: "Address"
+      icon: "fas fa-location-arrow"
+      value: "Brooklyn, NY 10001"
+
+### Blog [ blogSection ]
+#items generates from dir /content/blog/*
+blog:
+  enable: true
+  title: "PIANO FAQ"
+  text: "<p>Some helpful answeres to my most common questions!</p>"
+  button: "View Blog"
+  link: "blog/"
+
