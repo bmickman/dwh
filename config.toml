@@ -1,6 +1,6 @@
 # General Settings
 title = "Manhattan Piano Tuner | Same Day Apointments"
-baseURL = "https://luxury-twilight-138919.netlify.app" 
+baseURL = "https://www.manhattanpianotuner.com" 
 languageCode = "en-us"
 theme = "mytheme"
 resourceDir = "resources"
