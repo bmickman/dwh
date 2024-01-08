@@ -1,5 +1,5 @@
 # General Settings
-title = "Manhattan Piano Tuner | Schedule Today!"
+title = "Manhattan Piano Tuner | Same Day Apointments"
 baseURL = "https://luxury-twilight-138919.netlify.app" 
 languageCode = "en-us"
 theme = "mytheme"
@@ -29,7 +29,7 @@ branch = "main"
   weight = 4
 [[menu.main]]
   identifier = "blog"
-  name = "Blog"
+  name = "Piano FAQ"
   url = "#blog-section"
   weight = 5
 [[menu.main]]
@@ -44,7 +44,7 @@ branch = "main"
 defaultSkin = "dark"
 dateFormat = "January 2, 2006"
 authorName = "BMickman"
-googleAnalytics = "" #YOUR GOOGLE ANALYTICS CODE
+googleAnalytics = "G-TW140BWEHC"
 
 # Preloader Settings
 [params.preloader]

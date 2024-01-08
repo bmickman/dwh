@@ -34,7 +34,7 @@ about:
     <p>
     I've tuned at some of the most highly regarded recording studios in the city, as well as
     for NYC public and private schools, churches, and countless home residences. 
-    I've also tuned specifically for performances by Sarah McLachlan, Aaliyah, and for plays such as The Book of Mormon and Shucked. 
+    I've also tuned specifically for performances by Sarah McLachlan, Alicia Keys, and for plays such as The Book of Mormon and Shucked. 
 
   </p>
 
@@ -53,8 +53,8 @@ about:
       value: "18"
 
   button:
-    text: "Contact Me"
-    link: "#contact-section"
+    text: "Schedule via Calendly"
+    link: "https://calendly.com/brandon-mickman"
 
   signature:
     image: ""
@@ -67,36 +67,36 @@ pricing:
   text: "Simple and straightforward pricing!"
   items:
     - name: "Standard Rate"
-      subname: "Standard rate applies if W9 or 1099 are required"
+      subname: "Standard rate applies if W9 or 1099 forms are required"
       price: "$200"
       list:
         - value: "Piano Tuning"
         - value: "NYC Metro Area"
         - value: "LIRR, Metro North, and NJ transit are possible for an additional charge"
         - value: "Flexible scheduling!"
-      button: "Hire Me"
+      button: "Schedule Today!"
       link: "#contact-section"
 
     - name: "Local Rate"
       subname: "Cash, Venmo, Paypal, Zelle, same-day-check"
-      price: "$175"
+      price: "$165"
       list:
         - value: "Piano Tuning"
         - value: "NYC Metro Area"
         - value: "LIRR, Metro North, and NJ transit are possible for an additional charge"
         - value: "Flexible scheduling!"
-      button: "Hire Me"
+      button: "Schedule Today!"
       link: "#contact-section"
 
     - name: "Student Rate"
       subname: "Available to piano teachers and current music students only"
-      price: "$145"
+      price: "$135"
       list:
         - value: "Piano Tuning in residential locations only"
         - value: "NYC Metro Area"
         - value: "LIRR, Metro North, and NJ transit are possible for an additional charge"
         - value: "Proof of current music studies are required"
-      button: "Hire Me"
+      button: "Schedule Today!"
       link: "#contact-section"
 
 ### Clients [ clientsSection ]
