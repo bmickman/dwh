@@ -1,5 +1,5 @@
 ---
-title: "How Long Does a Piano Tuning Take"
+title: "How long does a piano tuning take"
 date: 2023-12-26T17:14:46-05:00
 ---
 A piano tuning usually takes between one and two hours. 

@@ -1,5 +1,5 @@
 ---
-title: "How Often Should Piano Be Tuned"
+title: "How often should my piano be tuned"
 date: 2024-01-09T13:43:56-05:00
 ---
 The frequency with which a piano should be tuned depends on various factors, including the piano's age, climate conditions, and how often it is played. In general, it is recommended to have a piano tuned at least twice per year for minimal maintenance.
