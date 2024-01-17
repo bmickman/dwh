@@ -1,6 +1,6 @@
 # General Settings
 title = "Dudes With Hands, Your Moving A-TEAM! | Call 617-519-1141 today!"
-baseURL = "https://www.dudeswithhands.com" 
+baseURL = "https://main--funny-kitsune-5c8411.netlify.app/" 
 languageCode = "en-us"
 theme = "mytheme"
 resourceDir = "resources"
