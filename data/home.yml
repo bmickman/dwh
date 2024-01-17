@@ -7,10 +7,10 @@
 hero:
   enable: true
   image: "images/about/profile.jpg"
-  image_alt: "Federico Ober"
-  title: "Servicing the NYC Metro Area!"
-  subtitle: "Manhattan Piano Tuner"
-  description: "Piano tuning services for the New York City Metropolitan Area"
+  image_alt: "Dudes With Hands"
+  title: " New York City's Moving A-Team"
+  subtitle: "Dudes With Hands"
+  description: "Servicing the NYC Metro Area!"
   info:
     - label: "Areas of Service"
       value: "Manhattan Brooklyn Queens Bronx ...sometimes beyond!"
@@ -19,7 +19,7 @@ hero:
       value: "10+ Years"
 
     - label: "Founded"
-      value: "2011"
+      value: "2013"
 
 ### About [ aboutSection ]
 about:
@@ -40,7 +40,7 @@ about:
 
   "
   list:
-    - label: "Hundreds of pianos tuned!"
+    - label: "Thousands of boxes moved!"
       icon: "far fa-check-circle"
       value: "124"
 
@@ -53,8 +53,8 @@ about:
       value: "18"
 
   button:
-    text: "Schedule via Calendly"
-    link: "https://calendly.com/brandon-mickman"
+    text: "Call, Text, or Email Today!"
+    link: "#contact-section"
 
   signature:
     image: ""
@@ -128,7 +128,7 @@ contact:
 
     - label: "Email"
       icon: "fas fa-at"
-      value: "piano.mickman@gmail.com"
+      value: "move.mickman@gmail.com"
 
     - label: "Address"
       icon: "fas fa-location-arrow"
@@ -138,7 +138,7 @@ contact:
 #items generates from dir /content/blog/*
 blog:
   enable: true
-  title: "PIANO FAQ"
+  title: "YOUR NYC Moving Company FAQ"
   text: "<p>Some helpful answeres to my most common questions!</p>"
   button: "View Blog"
   link: "blog/"

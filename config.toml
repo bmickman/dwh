@@ -1,6 +1,6 @@
 # General Settings
-title = "Manhattan Piano Tuner | Same Day Apointments"
-baseURL = "https://www.manhattanpianotuner.com" 
+title = "Dudes With Hands, Your Moving A-TEAM! | Call 617-519-1141 today!"
+baseURL = "https://www.dudeswithhands.com" 
 languageCode = "en-us"
 theme = "mytheme"
 resourceDir = "resources"
@@ -29,7 +29,7 @@ branch = "main"
   weight = 4
 [[menu.main]]
   identifier = "blog"
-  name = "Piano FAQ"
+  name = "Moving FAQ"
   url = "#blog-section"
   weight = 5
 [[menu.main]]
@@ -44,7 +44,10 @@ branch = "main"
 defaultSkin = "dark"
 dateFormat = "January 2, 2006"
 authorName = "BMickman"
-googleAnalytics = "G-TW140BWEHC"
+googleAnalytics = "G-TR8NRCFF6T"
+  logo = "/images/piano32.png" 
+  description = "NYC's Favorite Affordable Moving A-TEAM! Call 617-519-1141 Today!"
+
 
 # Preloader Settings
 [params.preloader]
@@ -56,7 +59,7 @@ logo = "images/pianosmall.png"
 
 # Footer Settings
 [params.footer]
-copyright = "© 2024 Manhattan Piano Tuner. All Rights Reserved"
+copyright = "© 2024 Dudes With Hands. All Rights Reserved"
 developer = "Notorious Octopus"
 
 # Social Settings
@@ -64,12 +67,12 @@ developer = "Notorious Octopus"
 [[params.social]]
 title = "Google Maps"
 icon = "fab fa-google"
-url = "https://maps.app.goo.gl/J83B3nHySXiks6YP7/"
+url = "https://g.page/dudeswithhands/"
 weight = 1
 [[params.social]]
 title = "Facebook"
 icon = "fab fa-facebook"
-url = "https://www.facebook.com/manhattanpianotuner/"
+url = "https://www.facebook.com/dudeswithhands/"
 weight = 2
 
 # Portfolio Settings
@@ -90,6 +93,6 @@ slug = "branding"
 
 # Sitemap Settings
 [sitemap]
-  changefreq = "monthly"
+  changefreq = "daily"
   priority = 0.5
   filename = "sitemap.xml"
