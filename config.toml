@@ -51,11 +51,11 @@ googleAnalytics = "G-TR8NRCFF6T"
 
 # Preloader Settings
 [params.preloader]
-logo = "images/pianosmall.png"
+logo = "images/dudeslogo.png"
 
 # Header Settings
 [params.header]
-logo = "images/pianosmall.png"
+logo = "images/dudeslogo.png"
 
 # Footer Settings
 [params.footer]
