@@ -1,6 +1,6 @@
 # General Settings
 title = "Dudes With Hands, Your Moving A-TEAM! | Call 617-519-1141 today!"
-baseURL = "https://main--funny-kitsune-5c8411.netlify.app/" 
+baseURL = "https://www.dudeswithhands.com/" 
 languageCode = "en-us"
 theme = "mytheme"
 resourceDir = "resources"
@@ -45,7 +45,7 @@ defaultSkin = "dark"
 dateFormat = "January 2, 2006"
 authorName = "BMickman"
 googleAnalytics = "G-TR8NRCFF6T"
-  logo = "/images/piano32.png" 
+  logo = "/images/dudeslogo.png" 
   description = "NYC's Favorite Affordable Moving A-TEAM! Call 617-519-1141 Today!"
 
 
