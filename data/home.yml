@@ -75,13 +75,15 @@ pricing:
   items:
     - name: "The Standard"
       subname: "The most popular quote for residential moves!"
-      price: "$205"
+      price: "$195"
       list:
         - value: "2 Movers"
         - value: "2 Hours"
         - value: "Truck up to 12 feet, 2 apartments close together"
         - value: "Flexible scheduling!"
-        - value: "additional movers or addtional hours can be added"
+        - value: "additional movers can be added"
+        - value: "Additional time for $85/hr"
+
       button: "Schedule Today!"
       link: "#contact-section"
 
@@ -93,12 +95,14 @@ pricing:
         - value: "Up to one hour of moving"
         - value: "Recommended if you just have a few large pieces or a smaller truck/van to unload"
         - value: "Flexible scheduling!"
+       - value: "Additional time for $85/hr"
+
       button: "Schedule Today!"
       link: "#contact-section"
 
     - name: "The One Man Job"
       subname: "Variety of moving services in the NYC area"
-      price: "Minimum $65"
+      price: "Starting at $65"
       list:
         - value: "AC units"
         - value: "Furniture assembly"
