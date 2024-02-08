@@ -75,15 +75,13 @@ pricing:
   items:
     - name: "The Standard"
       subname: "The most popular quote for residential moves!"
-      price: "$195"
+      price: "$205"
       list:
         - value: "2 Movers"
         - value: "2 Hours"
         - value: "Truck up to 12 feet, 2 apartments close together"
         - value: "Flexible scheduling!"
-        - value: "additional movers can be added"
-        - value: "Additional time for $85/hr"
-
+        - value: "additional movers or addtional hours can be added"
       button: "Schedule Today!"
       link: "#contact-section"
 
@@ -95,14 +93,12 @@ pricing:
         - value: "Up to one hour of moving"
         - value: "Recommended if you just have a few large pieces or a smaller truck/van to unload"
         - value: "Flexible scheduling!"
-       - value: "Additional time for $85/hr"
-
       button: "Schedule Today!"
       link: "#contact-section"
 
     - name: "The One Man Job"
       subname: "Variety of moving services in the NYC area"
-      price: "Starting at $65"
+      price: "Minimum $65"
       list:
         - value: "AC units"
         - value: "Furniture assembly"
@@ -118,7 +114,7 @@ pricing:
       price: "Quotes Vary"
       list:
         - value: "Furniture assembly"
-        - value: "UHaul rental & pickup - now available for local Bushwick/ Bedstuy/ Williamsburg/ Greenpoint loads (Starting at $165)"
+        - value: "UHaul rental - now available for local Bushwick/ Bedstuy/ Williamsburg/ Greenpoint loads (Starting at $165)"
         - value: "larger crews of 3-5 movers - recommended for jobs that would take 2 movers more than 3 hours"
         - value: "Office moves"
         - value: "Have another request? Just ask!"
