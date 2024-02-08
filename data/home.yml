@@ -81,7 +81,7 @@ pricing:
         - value: "2 Hours"
         - value: "Truck up to 12 feet, 2 apartments close together"
         - value: "Flexible scheduling!"
-                - value: "Additional hours at $85 per hour"
+        - value: "Additional hours at $85 per hour"
         
       button: "Schedule Today!"
       link: "#contact-section"
@@ -94,7 +94,7 @@ pricing:
         - value: "Up to one hour of moving"
         - value: "Recommended if you just have a few large pieces or a smaller truck/van to unload"
         - value: "Flexible scheduling!"
-                - value: "Additional hours at $85 per hour"
+        - value: "Additional hours at $85 per hour"
       button: "Schedule Today!"
       link: "#contact-section"
 
