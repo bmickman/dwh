@@ -20,13 +20,6 @@ branch = "main"
   name = "About"
   url = "#about-section"
   weight = 1
-
-
-[[menu.main]]
-  identifier = "pricing"
-  name = "Pricing"
-  url = "#pricing-section"
-  weight = 4
 [[menu.main]]
   identifier = "blog"
   name = "Moving FAQ"
