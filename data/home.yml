@@ -18,8 +18,8 @@ hero:
     - label: "Experience"
       value: "10+ Years"
 
-    - label: "Founded"
-      value: "2013"
+    - label: "Call for a quote!"
+      value: "(617) 519-1141"
 
 ### About [ aboutSection ]
 about:
@@ -150,7 +150,7 @@ contact:
   list:
     - label: "Phone"
       icon: "fas fa-phone"
-      value: "617-519-1141"
+      value: "(617) 519-1141"
 
     - label: "Email"
       icon: "fas fa-at"

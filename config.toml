@@ -37,9 +37,9 @@ branch = "main"
 defaultSkin = "dark"
 dateFormat = "January 2, 2006"
 authorName = "BMickman"
-googleAnalytics = "G-TR8NRCFF6T"
-  logo = "/images/dudeslogo.png" 
-  description = "NYC's Favorite Affordable Moving A-TEAM! Call 617-519-1141 Today!"
+googleAnalytics = "AW-739908831"
+logo = "/images/dudeslogo.png" 
+description = "NYC's Favorite Affordable Moving A-TEAM! Call 617-519-1141 Today!"
 
 
 # Preloader Settings
