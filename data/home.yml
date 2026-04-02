@@ -6,7 +6,7 @@
 ### Hero [ heroSection ]
 hero:
   enable: true
-  image: "images/about/profile.png"
+  image: "images/about/profile.jpg"
   image_alt: "Dudes With Hands"
   title: " New York City's Moving A-Team"
   subtitle: "Dudes With Hands"
